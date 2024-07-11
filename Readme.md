@@ -34,7 +34,7 @@ Make sure you have Python 3.x installed along with the following libraries:
 
 ```bash
 !pip install numpy pandas tensorflow scikit-learn matplotlib seaborn opencv-python
-
+```
 ### Usage
 Data Preprocessing: Images are read, organized, and split into training, validation, and testing sets.
 
